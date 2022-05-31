@@ -1,0 +1,160 @@
+# depslib dependency file v1.0
+1622238014 source:g:\nu\s4\advanced\project1_draft1\main.cpp
+	<bits/stdc++.h>
+	<vector>
+	<fstream>
+	<stdlib.h>
+	<exception>
+	<algorithm>
+	"Driver.h"
+	"Vehicle.h"
+	"Accident.h"
+	"VehicleAccidents.h"
+	"DrinkDrivingAccident.h"
+	"SpeedDrivingAccident.h"
+	"SafetyRelatedAccident.h"
+	"DistractedDrivingAccident.h"
+
+1622158806 g:\nu\s4\advanced\project1_draft1\include\driver.h
+	<string>
+
+1622159780 source:g:\nu\s4\advanced\project1_draft1\src\driver.cpp
+	"Driver.h"
+
+1621800819 source:g:\nu\s4\advanced\project1_draft1\src\ vehicleaccidents.cpp
+	" VehicleAccidents.h"
+
+1621807876 g:\nu\s4\advanced\project1_draft1\include\ vehicleaccidents.h
+	<string>
+
+1622238947 source:g:\nu\s4\advanced\project1_draft1\src\accident.cpp
+	"Accident.h"
+
+1622123266 g:\nu\s4\advanced\project1_draft1\include\accident.h
+	"Vehicle.h"
+	<string>
+	<vector>
+
+1621958385 source:g:\nu\s4\advanced\project1_draft1\src\vehicle.cpp
+	"Vehicle.h"
+
+1621982331 g:\nu\s4\advanced\project1_draft1\include\vehicle.h
+	"driver.h"
+	<string>
+
+1622153100 source:g:\nu\s4\advanced\project1_draft1\src\drinkdrivingaccident.cpp
+	"DrinkDrivingAccident.h"
+
+1622148815 g:\nu\s4\advanced\project1_draft1\include\drinkdrivingaccident.h
+	"Accident.h"
+	<string>
+
+1622153086 source:g:\nu\s4\advanced\project1_draft1\src\distracteddrivingaccident.cpp
+	"DistractedDrivingAccident.h"
+
+1622148802 g:\nu\s4\advanced\project1_draft1\include\distracteddrivingaccident.h
+	<Accident.h>
+	<string>
+
+1622144952 g:\nu\s4\advanced\project1_draft1\include\vehicleaccidents.h
+	<string>
+	"Accident.h"
+	<vector>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1622153107 source:g:\nu\s4\advanced\project1_draft1\src\safetyrelatedaccident.cpp
+	"SafetyRelatedAccident.h"
+
+1622148893 g:\nu\s4\advanced\project1_draft1\include\safetyrelatedaccident.h
+	<string>
+	"Accident.h"
+
+1622153114 source:g:\nu\s4\advanced\project1_draft1\src\speeddrivingaccident.cpp
+	"SpeedDrivingAccident.h"
+
+1622148912 g:\nu\s4\advanced\project1_draft1\include\speeddrivingaccident.h
+	<string>
+	"Accident.h"
+
+1622237240 source:g:\nu\s4\advanced\project1_draft1\src\vehicleaccidents.cpp
+	"VehicleAccidents.h"
+
+1621995256 g:\nu\s4\advanced\project1_draft1\functions.h
+	<string>
+
+1621995262 source:g:\nu\s4\advanced\project1_draft1\functions.cpp
+	"Functions.h"
+
+1622238947 source:g:\nu\s4\advanced\midterm project\src\accident.cpp
+	"Accident.h"
+
+1622123266 g:\nu\s4\advanced\midterm project\include\accident.h
+	"Vehicle.h"
+	<string>
+	<vector>
+
+1621982331 g:\nu\s4\advanced\midterm project\include\vehicle.h
+	"driver.h"
+	<string>
+
+1622158806 g:\nu\s4\advanced\midterm project\include\driver.h
+	<string>
+
+1622153086 source:g:\nu\s4\advanced\midterm project\src\distracteddrivingaccident.cpp
+	"DistractedDrivingAccident.h"
+
+1622148802 g:\nu\s4\advanced\midterm project\include\distracteddrivingaccident.h
+	<Accident.h>
+	<string>
+
+1622153100 source:g:\nu\s4\advanced\midterm project\src\drinkdrivingaccident.cpp
+	"DrinkDrivingAccident.h"
+
+1622148815 g:\nu\s4\advanced\midterm project\include\drinkdrivingaccident.h
+	"Accident.h"
+	<string>
+
+1622159780 source:g:\nu\s4\advanced\midterm project\src\driver.cpp
+	"Driver.h"
+
+1622153107 source:g:\nu\s4\advanced\midterm project\src\safetyrelatedaccident.cpp
+	"SafetyRelatedAccident.h"
+
+1622148893 g:\nu\s4\advanced\midterm project\include\safetyrelatedaccident.h
+	<string>
+	"Accident.h"
+
+1622153114 source:g:\nu\s4\advanced\midterm project\src\speeddrivingaccident.cpp
+	"SpeedDrivingAccident.h"
+
+1622148912 g:\nu\s4\advanced\midterm project\include\speeddrivingaccident.h
+	<string>
+	"Accident.h"
+
+1621958385 source:g:\nu\s4\advanced\midterm project\src\vehicle.cpp
+	"Vehicle.h"
+
+1622245766 source:g:\nu\s4\advanced\midterm project\src\vehicleaccidents.cpp
+	"VehicleAccidents.h"
+
+1622144952 g:\nu\s4\advanced\midterm project\include\vehicleaccidents.h
+	<string>
+	"Accident.h"
+	<vector>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1622248700 source:g:\nu\s4\advanced\midterm project\main.cpp
+	<bits/stdc++.h>
+	"Driver.h"
+	"Vehicle.h"
+	"Accident.h"
+	"VehicleAccidents.h"
+	"DrinkDrivingAccident.h"
+	"SpeedDrivingAccident.h"
+	"SafetyRelatedAccident.h"
+	"DistractedDrivingAccident.h"
+

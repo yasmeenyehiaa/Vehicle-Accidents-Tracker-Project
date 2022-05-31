@@ -1,0 +1,8 @@
+Egypt;{Drink highway 10:00 1/1/2021 [100100_Karmen_65_Female_15-12-2020] 1 }
+Canada;{Drink urban 11:00 3/2/2002 [100200_Mona_63_Female_21-11-2021] 1 }
+Germany;{Drink highway 10:00 2/5/2002 [100770_Yossef_63_Male_27-11-2020] 1 }
+Sudan;{Drink highway 12:00 2/9/2002 [100220_Karam_61_Male_20-12-2021] 1 }
+Turkey;{Distracted urban 13:00 3/3/2003 [100300_Hany_62_Male_27-2-2011]#[100500_Adel_66_Male_2-2-2018] 3 }
+Spain;{Speed urban 20:30 4/4/2004 [100700_Noha_61_Female_2-2-2003]#[100800_Kareem_64_Male_2-5-2003] 2 }
+Japan;{SafetyRelated highway 23:59 12/10/2011 [100400_Nadya_23_Female_1-1-2001]#[100002_Mohamed_20_FeMale_2-2-2010]#[100666_Doaa_36_FeMale_2-11-2009] 4 }
+China;{Drink urban 22:13 10/10/2020 [100000_Salma_29_Female_2-2-2005]#[100222_Basel_35_Male_2-2-2018]#[100333_Mark_44_Male_2-2-2017] 3 }
